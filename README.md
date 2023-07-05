@@ -4,6 +4,7 @@ Bu repo [kodluyoruz](https://kodluyoruz.org/) front-End Eğitiminde oluşturduğ
 <p align="center">
   <img width="250" height="250" src="ekran-goruntusu.png"
 </p>
+
 ## Installation
 ----
 Öncelikle projeyi clonlayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
