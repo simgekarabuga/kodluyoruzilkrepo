@@ -1,0 +1,11 @@
+image-size{
+    height: 25px;
+    width: 25px;
+}
+.search-dec{
+  background-color: rgb(238,243,248); 
+border-style: none;
+width: 100px;
+font-family: 'Courier New', Courier, monospace;
+font-size: small;
+}
